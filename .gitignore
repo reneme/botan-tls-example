@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+https_client
+
+# Debug symbols
+https_client.dSYM/
+
+# Conan specifics
+conan.lock
+conanbuildinfo.args
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
